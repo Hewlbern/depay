@@ -260,9 +260,9 @@ function AppDemo() {
         <div className="p-4">
           <div className="flex gap-2">
             <div className="text-xs leading-6 text-gray-500">
-              dePay, Inc.
+              Ivan .G
             </div>
-            <div className="text-sm text-gray-900">$CSS</div>
+            <div className="text-sm text-gray-900">Carpenter</div>
             <svg viewBox="0 0 24 24" className="ml-auto h-6 w-6" fill="none">
               <path
                 d="M5 12a7 7 0 1 1 14 0 7 7 0 0 1-14 0ZM12 9v6M15 12H9"
@@ -311,21 +311,18 @@ function AppDemo() {
               />
             </div>
             <div className="mt-4 rounded-lg bg-cyan-500 py-2 px-4 text-center text-sm font-semibold text-white">
-              Trade
+              Transact
             </div>
             <div className="mt-3 divide-y divide-gray-100 text-sm">
               <div className="flex justify-between py-1">
-                <div className="text-gray-500">Open</div>
-                <div className="font-medium text-gray-900">6,387.55</div>
+                <div className="text-gray-500">Current</div>
+                <div className="font-medium text-gray-900">2,387.55</div>
               </div>
               <div className="flex justify-between py-1">
-                <div className="text-gray-500">Closed</div>
-                <div className="font-medium text-gray-900">6,487.09</div>
+                <div className="text-gray-500">Completed</div>
+                <div className="font-medium text-gray-900">16,487.09</div>
               </div>
-              <div className="flex justify-between py-1">
-                <div className="text-gray-500">Low</div>
-                <div className="font-medium text-gray-900">6,322.01</div>
-              </div>
+             
             </div>
           </div>
         </div>
